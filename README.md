@@ -1,5 +1,5 @@
-# Predicting Amazon Ratings with Recommender Systems
+# CSE158 FA22 A2 Project
 
-Welcome everyone to my project to predict Amazon review ratings!
+Welcome to our project to predict Amazon review ratings utilizing recommender systems!
 
-You can find the final report in the bin folder.
+The report can be found in `bin/report.pdf`

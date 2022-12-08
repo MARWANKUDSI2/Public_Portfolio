@@ -1,7 +1,7 @@
-# DSC180A FA22 A15 Project
+# Marwan Kudsi's Portfolio
 
-The report can be found in `bin/report.pdf`
+Welcome everyone to my programming portfolio!
 
-To run the code and generate the report, run this command:
+To find all my published projects, please refer to the repository branches. I have assigned each branch to a distinct project I have worked on.
 
-`python run.py report`
+If you find any topics interesting and want to learn more, please feel free to reach out on my email marwankudsi@icloud.com!
